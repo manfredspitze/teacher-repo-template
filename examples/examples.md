@@ -13,7 +13,5 @@ Sample text
 
 ```
 
-```python
-# Sample output:
-
-```
+Sample Output
+![alt text](file.png)
