@@ -13,5 +13,6 @@ Sample text
 
 ```
 
-Sample Output
+Sample Output  
+
 ![alt text](file.png)
