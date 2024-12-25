@@ -2,9 +2,9 @@
 
 ## Overview
 
-- Create a new **PUBLIC** GitHub repo: ***repo-name***
+- Create a **PUBLIC** GitHub repo: ***repo-name***
 - Add your project files to your repo
-- Share the web address (URL) that points to your repo on Google Classroom
+- Share the repo web address on Google Classroom
 
 ## Helpful Resources
 
