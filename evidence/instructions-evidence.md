@@ -6,20 +6,18 @@
 - Add your project files to your repo
 - Share the web address (URL) that points to your repo on Google Classroom
 
+## Helpful Resources
+
+ - [Python comments](https://www.w3schools.com/python/python_comments.asp)
+ - [Resource](URL)
+
 
 Write a script that:
 
  - does X
  - does Y
 
-## Helpful Resources
 
- - About [Python comments](https://www.w3schools.com/python/python_comments.asp)
- - Resource 2
- 
-## When You're Finished
- - Did you save your work to your GitHub repo for this evidence project?
- - Check your spelling and grammar
 
 
 
