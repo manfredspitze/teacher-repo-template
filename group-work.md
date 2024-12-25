@@ -3,8 +3,8 @@
 
 ### Directions
 - Work with your assigned group
-- Contribute to the success of your group by doing your fair share of the work
-- **Actively** participate in all discussions
+- Please do your fair share of the work
+- **Actively** participate in group and class discussions
 
 ### Group 1
 - Task
