@@ -1,16 +1,18 @@
-﻿# Evidence: Topic
+﻿# Python: Topic
 
-## Overview
+### Overview
 
 - Create a **PUBLIC** GitHub repo: ***repo-name***
 - Add your project files to your repo
 - Share the repo web address on Google Classroom
 
-## Helpful Resources
+### Helpful Resources
 
  - [Python comments](https://www.w3schools.com/python/python_comments.asp)
  - [Resource](URL)
 
+
+### Directions
 
 Write a script that:
 
