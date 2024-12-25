@@ -1,4 +1,4 @@
-## About 
+## Topic:  
 
 Sample text
 
@@ -14,6 +14,6 @@ Sample text
 ```
 
 ```python
-# The output would look like this:
+# Sample output:
 
 ```
