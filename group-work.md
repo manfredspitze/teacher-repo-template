@@ -2,39 +2,37 @@
 ## Topic
 
 ### Directions
-> Work with your assigned group
->
-> Contribute to the success of your group by doing your fair share of the work
->
-> **Actively** participate in all discussions
-> 
-
----
-
-### Today's Objective
-> Objective
+- Work with your assigned group
+- Contribute to the success of your group by doing your fair share of the work
+- **Actively** participate in all discussions
 
 ### Group 1
-- Do this
+- Task
 
 ---
 
 ### Group 2
-- Do this
+- Task
 
 ---
 
 ### Group 3
-- Do this
+- Task
 
 ---
 
 ### Group 4
-- Do this
+- Task
 
 ---
 
 ### Group 5
-- Do this
+- Task
+
+---
+
+
+### Group 6
+- Task
 
 ---
