@@ -1,20 +1,19 @@
 
-# Exit Ticket
 ## Topic
+
+Name ______________________________________
 
 - Please answer the following questions 
 - Use correct spelling and grammar
 
-#### Question
-- *Your answer here...*
+---
+1. Question
+   
+2. Question
+   
+3. Question
 
-
-#### Question 
-- *Your answer here...*
-
-
-#### Question 
-- *Your answer here...*
+---
 
 
 
