@@ -4,12 +4,16 @@
 Name ______________________________________
 
 - Please answer the following questions 
-- Use correct spelling and grammar
+- Place your exit ticket in the plastic tray today when you are finished
 
 ---
 1. Question
+
+
    
 2. Question
+
+
    
 3. Question
 
