@@ -6,15 +6,11 @@
     - No need to share your repo with your teacher
     - Teacher will discuss your work with you **during Teacher Time**
 
-### Your Code
-
-#### Task 1
+### Your Practice Projects
 
 - Text
 
 ---
-
-#### Task 2
 
 - Text
 
