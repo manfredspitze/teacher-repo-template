@@ -28,7 +28,16 @@ const cars = ["Saab", "Volvo", "BMW"];
 for (const car of cars) {
   console.log(car);
 }
+```
+```javascript
+const numbers = [10, 20, 30, 40, 50];
+let sum = 0;
 
+for (const number of numbers) {
+  sum += number;
+}
+
+console.log(`The sum is: ${sum}`); // Output: The sum is: 150
 ```
 ```css
 body {
