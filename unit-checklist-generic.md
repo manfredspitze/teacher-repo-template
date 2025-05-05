@@ -16,7 +16,7 @@ Use this checklist to keep track of the tasks you need to complete for this unit
 ### Written Assignments
 - [ ] [Exit ticket 1](url)
 - [ ] [Exit ticket 2](url)
-- [ ] Note guide(s)(url)
+- [ ] [Note guide(s)](url)
 - [ ] [End-of-Unit Self-Analysis](url)
 ---
 ### Reading Assignments
