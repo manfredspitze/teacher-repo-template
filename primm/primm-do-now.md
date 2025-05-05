@@ -2,10 +2,34 @@
 
 - **PRIMM** is short for (P)redict, (R)un, (I)nvestigate, (M)odify, and (M)ake
 
-A snippet of Python code for you:
 ```python
-first_name = 'Mike'
-print(f'Hello, {first_name}!')
+greeting = 'Hello, world!'
+print(greeting)
+```
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>But this is a paragraph.</p>
+
+</body>
+</html>
+```
+
+```javascript
+// Define an array named cars:
+const cars = ["Saab", "Volvo", "BMW"];
+```
+```css
+body {
+  background-color: lightblue;
+}
 ```
 
 ## (P)redict
