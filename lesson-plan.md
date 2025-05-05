@@ -3,7 +3,7 @@
 ---
 ## Objective
 
--   Text
+-   Students will
 ---
 ## Materials
 
