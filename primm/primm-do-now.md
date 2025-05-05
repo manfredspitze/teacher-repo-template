@@ -3,7 +3,7 @@
 - **PRIMM** is short for (P)redict, (R)un, (I)nvestigate, (M)odify, and (M)ake
 
 ```python
-greeting = 'Hello, world!'
+greeting = 'Good morning!'
 print(greeting)
 ```
 
@@ -25,6 +25,10 @@ print(greeting)
 ```javascript
 // Define an array named cars:
 const cars = ["Saab", "Volvo", "BMW"];
+for (const car of cars) {
+  console.log(car);
+}
+
 ```
 ```css
 body {
