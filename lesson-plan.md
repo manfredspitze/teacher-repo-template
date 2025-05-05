@@ -15,7 +15,7 @@
 1.  Question
 2.  Question
 ---
-## Students should be able to:
+## Students will be able to:
 
 -   Skill
 -   Skill
