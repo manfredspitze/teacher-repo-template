@@ -35,9 +35,9 @@
 -   Activity for students who have mastered the lesson objectives that requires them to apply what they've learned from the lesson in a new or an innovative way
 -   Provide articles, videos, websites, etc., that will help students further explore the topic
 ---
-## Differentiation and Scaffolding
+## Differentiation 
 
--   Activity for advanced students
--   Activity for students who are struggling with the lesson's concepts/skills
+-   **Advanced students:** Text
+-   **Struggling students:** Text
 ---
 
