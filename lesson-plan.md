@@ -1,4 +1,4 @@
-## Unit Name
+## Name of Unit
 ### 1.0 Lesson Title
 ---
 ## Objective
