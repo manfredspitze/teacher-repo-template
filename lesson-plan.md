@@ -1,4 +1,4 @@
-## Name of Unit
+## Name of unit here...
 ### 1.0 Lesson Title
 ---
 ## Objective
@@ -35,9 +35,8 @@
 -   Activity for students who have mastered the lesson objectives that requires them to apply what they've learned from the lesson in a new or an innovative way
 -   Provide articles, videos, websites, etc., that will help students further explore the topic
 ---
-## Differentiation 
+## Differentiation
 
 -   **Advanced students:** Text
 -   **Struggling students:** Text
 ---
-
